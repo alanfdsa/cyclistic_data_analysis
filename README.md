@@ -1,4 +1,4 @@
-## Capstone Google data analysis
+## Capstone Google data analysis hypothetical situation
 
 Introduction
 
