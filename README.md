@@ -1,4 +1,4 @@
-# capstone_google_data_analysis
+## Capstone Google data analysis
 
 Introduction
 
