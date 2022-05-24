@@ -1,4 +1,4 @@
-## Capstone Google data analysis hypothetical situation
+## Google Data Analytics Capstone: Complete a Case Study (hypothetical situation)
 
 Introduction
 
