@@ -58,3 +58,20 @@ do that, however, the marketing analyst team needs to better understand how annu
 casual riders would buy a membership, and how digital media could affect their marketing tactics. Moreno and her team are
 interested in analyzing the Cyclistic historical bike trip data to identify trends.
 
+## Dataset
+
+| ride_id |
+|rideable_type|
+|started_at|
+|ended_at|
+|started_at|
+|ended_at|
+|start_station_name|
+|start_station_id|
+|end_station_name|
+|end_station_id|
+|start_lat|
+|start_lng|
+|end_lat|
+|end_lng|
+|member_casual|
