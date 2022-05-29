@@ -60,6 +60,8 @@ interested in analyzing the Cyclistic historical bike trip data to identify tren
 
 ## Dataset
 
+Variável | Definição
+------------ | -------------
 | ride_id |
 |rideable_type|
 |started_at|
