@@ -75,3 +75,22 @@ Variable | Description
 |end_lat|final latitude|
 |end_lng|final longitude|
 |member_casual|type of user|
+
+## Tools
+
+* Jupyter Notebook
+* Python
+* Pandas
+* Matplotlib
+* Numpy
+* Os
+* Glob
+
+## Steps to solve the problem
+
+* Collect data (https://divvy-tripdata.s3.amazonaws.com/index.html)
+* Data clean
+* Understand the business problem
+* Transform variables
+* Data exploration
+* Communicate the results (Presentation.pdf)
