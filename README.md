@@ -60,20 +60,18 @@ interested in analyzing the Cyclistic historical bike trip data to identify tren
 
 ## Dataset
 
-Variável | Definição
+Variable | Description
 ------------ | -------------
-| ride_id |
-|rideable_type|
-|started_at|
-|ended_at|
-|started_at|
-|ended_at|
-|start_station_name|
-|start_station_id|
-|end_station_name|
-|end_station_id|
-|start_lat|
-|start_lng|
-|end_lat|
-|end_lng|
-|member_casual|
+| ride_id|id of ride|
+|rideable_type|bike type|
+|started_at|date and time that the ride begin|
+|ended_at|date and time that the ride finish|
+|start_station_name|name of the initial station|
+|start_station_id|id of the initial station|
+|end_station_name|name of the end station|
+|end_station_id|end of the end station|
+|start_lat|initial latitude|
+|start_lng|initial longinute|
+|end_lat|final latitude|
+|end_lng|final longitude|
+|member_casual|type of user|
